@@ -1,2 +1,2 @@
-# instalike-bakc
+# instalike-back
 Imersão da Alura
